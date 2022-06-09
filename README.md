@@ -1,5 +1,6 @@
 # FutureSpoofer
 
+`downloaded-999.7z` contain the downloaded files in case they delete them in their Discord server, the password: `1337`
 
 [<h3>Skilled Developers</h3>](https://i.imgur.com/HtRlKJh.gif)<br>![](https://i.imgur.com/ZyYjoH4.png)<br>![](https://i.imgur.com/cjDK5go.png)<br>![](https://i.imgur.com/8NRpGh7.png)
 
